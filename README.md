@@ -14,7 +14,7 @@ Start by uploading the starter file to Google Colab, then using the information 
 
   - Determine the number of unique values for each column.
 
-   -For columns that have more than 10 unique values, determine the number of data points for each unique value.
+  - For columns that have more than 10 unique values, determine the number of data points for each unique value.
 
   - Use the number of data points for each unique value to pick a cutoff point to bin "rare" categorical variables together in a new value, Other, and then check if the binning was successful.
 
